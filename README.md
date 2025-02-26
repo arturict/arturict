@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Artur and I'm a upcoming Software enginere from Switzerlandp>
+<p align="left">My name is Artur and I'm a upcoming Software enginere from Switzerland.
 
 ###
 
