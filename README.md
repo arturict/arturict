@@ -2,14 +2,14 @@
 
 ###
 
-<p align="left">My name is Artur and I'm a upcoming Software enginere from Switzerland.
+<p align="left">My name is Artur and I'm a upcoming Software engineer from Switzerland.
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Docker and Laravel<br>🎯 Goals: Build my own mirco SaaS<br>🎲 Fun fact: I enjoy selfhosting and I own a Homelab</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Docker and Laravel<br>🎯 Goals: Build my own micro SaaS<br>🎲 Fun fact: I enjoy selfhosting and I own a homelab</p>
 
 ###
 
