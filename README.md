@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Docker and MongoDB<br>🎯 Goals: Build my own mirco SaaS<br>🎲 Fun fact: I enjoy selfhosting and I own a Homelab</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Docker and Laravel<br>🎯 Goals: Build my own mirco SaaS<br>🎲 Fun fact: I enjoy selfhosting and I own a Homelab</p>
 
 ###
 
