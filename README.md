@@ -1,62 +1,96 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<p align="left">
+  I'm <strong>Artur</strong> – an aspiring Software Engineer from Switzerland.<br>
+  Currently in my 2<sup>nd</sup> year of a four-year apprenticeship as an Application&nbsp;Developer&nbsp;(EFZ) at Axpo Group.<br>
+  <strong>Expected graduation: 2027</strong>
+</p>
 
-<p align="left">My name is Artur and I'm a upcoming Software engineer from Switzerland.
+---
 
-###
+<h2 align="left">About&nbsp;Me</h2>
 
-<h2 align="left">About me</h2>
+- ✨ Creating bugs since 2022  
+- 🔧 Diving into **Docker** & **Laravel**, tinkering with micro-SaaS ideas  
+- 🖥️ Proud owner of a **Proxmox**-powered self-hosted homelab  
+- 🎯 Goal: launch my own SaaS and give back to open source  
 
-###
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Docker and Laravel<br>🎯 Goals: Build my own micro SaaS<br>🎲 Fun fact: I enjoy selfhosting and I own a homelab</p>
+---
 
-###
+<h2 align="left">Main&nbsp;Tech&nbsp;Stack</h2>
 
-<h2 align="left">I code with</h2>
-
-###
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/laravel.svg" height="40" alt="Laravel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
 </div>
 
-###
+---
 
-###
+<h2 align="left">Also&nbsp;familiar&nbsp;with</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/mongodb.svg" height="40" alt="MongoDB logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/microsoftsqlserver.svg" height="40" alt="SQL Server logo" />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/342139/proxmox.svg" height="40" alt="Proxmox logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+</div>
+
+---
+
+<h2 align="left">🏆 GitHub Trophies</h2>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=arturict&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h2 align="left">📊 Stats</h2>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=arturict&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturict&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arturict&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<div align="center">
+  <h2>🔗 Connect with Me</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/artur-ferreira-5a5baa289/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
+    </a>
+  </p>
+</div>
+
+
+---
+
+<!-- 🐍 GitHub Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturict/arturict/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturict/arturict/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/arturict/arturict/output/github-snake.svg" />
 </picture>
-
-
