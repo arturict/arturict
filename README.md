@@ -94,5 +94,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturict/arturict/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/arturict/arturict/output/github-snake.svg" />
 </picture>
----
-https://chatgpt.com/
+<p>
+  <a href="https://chatgpt.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ChatGPT-4B33A2?logo=openai&logoColor=white&style=for-the-badge" alt="ChatGPT Badge" />
+  </a>
+</p>
