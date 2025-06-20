@@ -11,9 +11,9 @@
 <h2 align="left">About&nbsp;Me</h2>
 
 - ✨ Creating bugs since 2022  
-- 🔧 Diving into **Docker** & **Laravel**, tinkering with micro-SaaS ideas  
+- 🔧 Diving into **React** & **Laravel**, experimenting with micro-SaaS ideas  
 - 🖥️ Proud owner of a **Proxmox**-powered self-hosted homelab  
-- 🎯 Goal: launch my own SaaS and give back to open source  
+- 🎯 Goal: launch my own SaaS and become an expert in a field  
 
 ---
 
