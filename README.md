@@ -84,7 +84,7 @@
     </a>
   </p>
 </div>
-[![window widget](https://window-lemon.vercel.app/api/Window?titleBar=t&title=t&desc=t&theme=dark)](https://github.com/arturict/arturict)
+
 
 
 ---
@@ -95,3 +95,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturict/arturict/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/arturict/arturict/output/github-snake.svg" />
 </picture>
+
