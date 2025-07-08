@@ -1,0 +1,44 @@
+name: Update Blog Posts
+
+on:
+  # Schedule the workflow to run daily at 8 AM UTC
+  schedule:
+    - cron: "0 8 * * *"
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+  # Trigger the workflow on pushes to the main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        
+      # Step 2: Update README with latest blog posts from Medium/Dev.to
+      - name: Update Blog Posts from Medium
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Medium RSS feed (replace 'arturict' with actual Medium username)
+          feed_list: "https://medium.com/feed/@arturict"
+          # Optional: Dev.to feed can be added here
+          # feed_list: "https://dev.to/feed/arturict,https://medium.com/feed/@arturict"
+          max_post_count: 3
+          readme_path: "./README.md"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "BLOG-POST-LIST"
+          template: "- 📝 [$title]($url)"
+          date_format: "mmm dd, yyyy"
+          user_agent: "blog-post-workflow"
+          accept_header: "application/rss+xml"
+          tag_post_pre_newline: true
+          custom_tags: "BLOG-POST-LIST:START,BLOG-POST-LIST:END"
+          commit_message: "Updated blog posts"
+          committer_username: "blog-post-bot"
+          committer_email: "blog-post-bot@example.com"
