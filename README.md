@@ -16,7 +16,7 @@
 - 🎯 Goal: launch my own SaaS and become an expert in a field  
 - 📚 Currently learning advanced **DevOps** and **Cloud Architecture**  
 - 💬 Ask me about **web development**, **homelab setup**, or **micro-SaaS ideas**  
-- 📫 How to reach me: **LinkedIn** or **Twitter**  
+- 📫 How to reach me: **LinkedIn** or **Instagram**  
 - ⚡ Fun fact: I love automating everything and breaking things to learn how they work  
 
 ---
@@ -60,13 +60,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx logo" />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/342139/proxmox.svg" height="40" alt="Proxmox logo" />
   <img width="12" />
@@ -80,19 +76,9 @@
 <h2 align="left">📝 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically updated by GitHub Actions -->
+*No blog posts available yet. Check back soon!*
 <!-- BLOG-POST-LIST:END -->
 
----
-
-<h2 align="left">⏰ Coding Activity</h2>
-
-<p align="center">
-  <img src="https://wakatime.com/share/@arturict/4c0bb4b6-1a40-4c8b-b5b9-d1b4c8f7e2b8.svg" alt="Coding Activity" />
-</p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -140,8 +126,8 @@
     <a href="https://dev.to/arturict" target="_blank">
       <img src="https://img.shields.io/badge/Dev.to-black?logo=dev.to&style=for-the-badge" alt="Dev.to Badge" />
     </a>
-    <a href="https://twitter.com/arturict" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
+    <a href="https://www.instagram.com/its.artur07" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" alt="Instagram Badge" />
     </a>
   </p>
 </div>

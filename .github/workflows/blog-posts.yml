@@ -29,11 +29,11 @@ jobs:
           feed_list: "https://medium.com/feed/@arturict"
           # Optional: Dev.to feed can be added here
           # feed_list: "https://dev.to/feed/arturict,https://medium.com/feed/@arturict"
-          max_post_count: 5
+          max_post_count: 3
           readme_path: "./README.md"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           comment_tag_name: "BLOG-POST-LIST"
-          template: "- 📝 [$title]($url) - $description"
+          template: "- 📝 [$title]($url)"
           date_format: "mmm dd, yyyy"
           user_agent: "blog-post-workflow"
           accept_header: "application/rss+xml"
