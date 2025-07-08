@@ -42,7 +42,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/77549226?s=200&v=4" height="40" alt="Coolify logo" />
 </div>
 
 ---
