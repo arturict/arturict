@@ -16,7 +16,7 @@
 - 🎯 Goal: launch my own SaaS and become an expert in a field  
 - 📚 Currently learning advanced **DevOps** and **Cloud Architecture**  
 - 💬 Ask me about **web development**, **homelab setup**, or **micro-SaaS ideas**  
-- 📫 How to reach me: **LinkedIn** or **Instagram**  
+- 📫 How to reach me: **LinkedIn**
 - ⚡ Fun fact: I often redo stuff to do it better and sometimes, because I just love the process. At the moment I'm learning React and cloud stuff/deployment/self-hosted deployment  
 
 ---
@@ -128,9 +128,6 @@
     </a>
     <a href="https://dev.to/arturict" target="_blank">
       <img src="https://img.shields.io/badge/Dev.to-black?logo=dev.to&style=for-the-badge" alt="Dev.to Badge" />
-    </a>
-    <a href="https://www.instagram.com/its.artur07" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" alt="Instagram Badge" />
     </a>
   </p>
 </div>
