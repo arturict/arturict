@@ -1,145 +1,104 @@
-<h1 align="left">Hello! 👋 Welcome to my profile</h1>
+# Artur Ferreira
 
-<p align="left">
-  I'm <strong>Artur</strong> – an aspiring Software Engineer from Switzerland.<br>
-  Currently in my 2<sup>nd</sup> year of a four-year apprenticeship as an Application&nbsp;Developer&nbsp;(EFZ) at Axpo Group.<br>
-  <strong>Expected graduation: 2027</strong>
+**Informatiker EFZ Applikationsentwickler**
+
+Lehrling im 3. Jahr bei der CKW AG / Axpo Group, arbeitet mit Microsoft-Technologien an der Entwicklung von Unternehmenslösungen.
+
+[GitHub](https://github.com/arturict) | [LinkedIn](https://www.linkedin.com/in/artur-ferreira7) | [Kontakt](https://arturf.ch/cdn-cgi/l/email-protection#dbbaa9afaea99bbdbea9a9beb2a9bab8a9aea1f5b8b4b6)
+
+---
+
+## Erfahrung
+
+**CKW AG / Axpo Group**
+*Informatiker EFZ Applikationsentwickler • 3. Lehrjahr*
+*Abschluss August 2027*
+
+Entwicklung von Anwendungen auf Unternehmensebene mit Microsoft-Technologien. Arbeit mit .NET, ASP.NET, C# und MSSQL im Microsoft-Ökosystem zur Bereitstellung innovativer Lösungen im Energiesektor.
+
+---
+
+## Technische Fähigkeiten
+
+### Frontend
+<p>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+</p>
+
+### Backend
+<p>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+    <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+### Datenbank
+<p>
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### Sonstiges
+<p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
 
-<h2 align="left">About&nbsp;Me</h2>
+## Persönliche Projekte
 
-- ✨ Creating bugs since 2022  
-- 🔧 Diving into **React** & **Laravel**, redoing my docker and deployment setup 
-- 🖥️ Proud owner of a **Proxmox**-powered self-hosted homelab  
-- 🎯 Goal: launch my own SaaS and become an expert in a field  
-- 📚 Currently learning advanced **DevOps** and **Cloud Architecture**  
-- 💬 Ask me about **web development**, **homelab setup**, or **micro-SaaS ideas**  
-- 📫 How to reach me: **LinkedIn**
-- ⚡ Fun fact: I often redo stuff to do it better and sometimes, because I just love the process. At the moment I'm learning React and cloud stuff/deployment/self-hosted deployment  
+### Homelab & Self-Hosting
+Produktionsreifes Proxmox-Setup zum Lernen und Experimentieren. Hoch energieeffizientes Setup.
 
----
+### KI-Enthusiast
+Erkundung von künstlicher Intelligenz und maschinellem Lernen. Experimentieren mit verschiedenen KI-Modellen und -Werkzeugen.
 
-<h2 align="left">Main&nbsp;Tech&nbsp;Stack</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" height="40" alt="Laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-</div>
+### Tech-Blog
+*In Kürze*
+Aufbau einer einfachen Blog-Plattform, um Einblicke in Entwicklung, Technologie und meine Lernreise zu teilen.
 
 ---
 
-<h2 align="left">Also&nbsp;familiar&nbsp;with</h2>
+## Vorgestelltes Projekt
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/342139/proxmox.svg" height="40" alt="Proxmox logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu logo" />
-</div>
+**CodeCellar** - *Hackathon 2024*
+Ein kollaborativer Echtzeit-Code-Editor, der während des [2024 Young Talents Hackathon](https://young-talents-hackathon.ch/) entwickelt wurde.
 
 ---
 
-<h2 align="left">📝 Latest Blog Posts</h2>
-
-<!-- BLOG-POST-LIST:START -->
-*No blog posts available yet. Check back soon!*
-<!-- BLOG-POST-LIST:END -->
-
-
----
-
-<h2 align="left">🏆 GitHub Trophies</h2>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=arturict&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
-<h2 align="left">📊 Stats</h2>
+## GitHub-Statistiken
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arturict&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arturict&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturict&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arturict&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arturict&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arturict&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub-Statistiken" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arturict&theme=tokyonight&hide_border=true" alt="GitHub-Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturict&layout=compact&theme=tokyonight&hide_border=true" alt="Top-Sprachen" />
 </p>
 
 ---
 
-<div align="center">
-  <h2>🔗 Connect with Me</h2>
-  <p>
+## Verbinde dich mit mir
+
+<p align="center">
     <a href="https://www.linkedin.com/in/artur-ferreira-5a5baa289/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn-Abzeichen" />
     </a>
     <a href="https://medium.com/@arturict" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge" alt="Medium Badge" />
+      <img src="https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge" alt="Medium-Abzeichen" />
     </a>
     <a href="https://dev.to/arturict" target="_blank">
-      <img src="https://img.shields.io/badge/Dev.to-black?logo=dev.to&style=for-the-badge" alt="Dev.to Badge" />
+      <img src="https://img.shields.io/badge/Dev.to-black?logo=dev.to&style=for-the-badge" alt="Dev.to-Abzeichen" />
     </a>
-  </p>
-</div>
-
-
-
----
-
-<!-- 🐍 GitHub Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturict/arturict/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturict/arturict/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arturict/arturict/output/github-snake.svg" />
-</picture>
-
+</p>
