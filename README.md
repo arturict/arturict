@@ -1,95 +1,67 @@
-<h1 align="left">Hello! 👋 Welcome to my profile</h1>
+<h1 align="left">Hey, I'm Artur 👋</h1>
 
 <p align="left">
-  I'm <strong>Artur</strong> – an aspiring Software Engineer from Switzerland.<br>
-  Currently in my 2<sup>nd</sup> year of a four-year apprenticeship as an Application&nbsp;Developer&nbsp;(EFZ) at Axpo Group.<br>
-  <strong>Expected graduation: 2027</strong>
+  Aspiring <strong>Software Engineer</strong> & <strong>founder-in-the-making</strong> from Central Switzerland.<br>
+  Currently in the final stretch of my Application Developer apprenticeship (Informatiker EFZ) at <strong>Axpo Group</strong> — <strong>graduating 2027</strong>.<br>
+  These days I build with <strong>Convex</strong> + <strong>Next.js</strong>, run a <strong>Proxmox</strong> homelab, and I'm taking my first real steps into <strong>entrepreneurship</strong>.
 </p>
 
 ---
 
-<h2 align="left">About&nbsp;Me</h2>
+<h2 align="left">What I'm up to</h2>
 
-- ✨ Creating bugs since 2022  
-- 🔧 Diving into **React** & **Laravel**, redoing my docker and deployment setup 
-- 🖥️ Proud owner of a **Proxmox**-powered self-hosted homelab  
-- 🎯 Goal: launch my own SaaS and become an expert in a field  
-- 📚 Currently learning advanced **DevOps** and **Cloud Architecture**  
-- 💬 Ask me about **web development**, **homelab setup**, or **micro-SaaS ideas**  
-- 📫 How to reach me: **LinkedIn**
-- ⚡ Fun fact: I often redo stuff to do it better and sometimes, because I just love the process. At the moment I'm learning React and cloud stuff/deployment/self-hosted deployment  
+- 🚀 Shipping full-stack apps on my new favourite stack: **Convex + Next.js + TypeScript**
+- 🖥️ Running a self-hosted **Proxmox** homelab — and going deeper into infra by helping set up and maintain a lab with real bare-metal servers (2× HPE ProLiant DL380 Gen10, ~1.5 TB RAM total, 4× Tesla M10 GPUs + a custom NAS with an RTX 5060)
+- 🧩 Living in **Docker, Coolify, Traefik** & self-hosted deployments
+- 💡 Turning side projects into something real — currently exploring **micro-SaaS** ideas
+- 🎓 Joining **"Vom Traum zum Business"** (ICT-Berufsbildung Zentralschweiz) to learn the founding ropes, and very likely the **Youngpreneurs Zentralschweiz** 8-month startup program this year
+- ⚡ Fun fact: I love the process so much I'll happily rebuild something just to do it better
 
 ---
 
-<h2 align="left">Main&nbsp;Tech&nbsp;Stack</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" height="40" alt="Laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-</div>
-
----
-
-<h2 align="left">Also&nbsp;familiar&nbsp;with</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/342139/proxmox.svg" height="40" alt="Proxmox logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu logo" />
-</div>
-
----
-
-<h2 align="left">📝 Latest Blog Posts</h2>
-
-<!-- BLOG-POST-LIST:START -->
-*No blog posts available yet. Check back soon!*
-<!-- BLOG-POST-LIST:END -->
-
-
----
-
-<h2 align="left">🏆 GitHub Trophies</h2>
+<h2 align="left">🧰 Current Stack</h2>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=arturict&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
+
+<h2 align="left">🏗️ Homelab & DevOps</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Coolify-8B5CF6?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
+</p>
+
+<h2 align="left">🧪 Also familiar with</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+---
+
+<h2 align="left">🔭 A few things I've been building</h2>
+
+- **HomeFlow (HMS)** — household management app with AI features & PWA
+- **GeoDuels** — a free GeoGuessr alternative with duels, rankings & custom lobbies
+- **Archivista AI** — AI autopilot for Paperless-ngx (tagging, classification, metadata)
+- **Coolify Traefik Proxy Manager** — an NPM-style GUI for Coolify Traefik routes across VMs/LXCs
 
 ---
 
@@ -112,6 +84,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arturict&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=arturict&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -120,6 +96,9 @@
 <div align="center">
   <h2>🔗 Connect with Me</h2>
   <p>
+    <a href="https://arturf.ch" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-arturf.ch-0e75b6?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge" />
+    </a>
     <a href="https://www.linkedin.com/in/artur-ferreira-5a5baa289/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
     </a>
@@ -132,8 +111,6 @@
   </p>
 </div>
 
-
-
 ---
 
 <!-- 🐍 GitHub Contribution Snake -->
@@ -142,4 +119,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturict/arturict/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/arturict/arturict/output/github-snake.svg" />
 </picture>
-
