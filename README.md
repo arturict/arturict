@@ -16,3 +16,10 @@ Software engineer in training and indie builder from Switzerland. I build produc
 
 - [**Tagvico**](https://github.com/arturict/tagvico-ai) — AI-assisted document processing for Paperless-ngx ([website](https://tagvico.arturf.ch))
 - [**Work SDK**](https://github.com/arturict/work-sdk) — Typed, agent-safe API for GitHub Issues, Linear, and Jira
+
+### Recent upstream contributions
+
+- [**OpenClaw**](https://github.com/openclaw/openclaw/pull/104526) — Prevented unlisted Telegram API calls from stalling message delivery
+- [**Homarr**](https://github.com/homarr-labs/homarr/pull/6293) — Added text-direction controls to the notebook editor
+
+I am continuing to contribute focused fixes and tests to actively maintained open-source projects, and I am interested in taking ownership of recurring maintenance work.
