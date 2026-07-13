@@ -21,5 +21,4 @@ Software engineer in training and indie builder from Switzerland. I build produc
 
 - [**OpenClaw**](https://github.com/openclaw/openclaw/pull/104526) — Prevented unlisted Telegram API calls from stalling message delivery
 - [**Homarr**](https://github.com/homarr-labs/homarr/pull/6293) — Added text-direction controls to the notebook editor
-
-I am continuing to contribute focused fixes and tests to actively maintained open-source projects, and I am interested in taking ownership of recurring maintenance work.
+- [**Uptime Kuma**](https://github.com/louislam/uptime-kuma/pull/7588) — Clarified the domain-expiry warning for TLDs unsupported by RDAP
