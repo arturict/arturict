@@ -8,7 +8,7 @@ Software engineer in training and indie builder from Switzerland. I build produc
 
 - [**Tevori**](https://tevori.app) — Shared household inventory connecting groceries, recipes, shopping, and cooking
 - **Savelo** — Websites, online reservations, and a manageable back office for independent restaurants
-- [**Daystrong**](https://daystrong.arturf.ch) — Eat well, train strong, and build better days
+- [**Daystrong**](https://daystrong.app) — Eat well, train strong, and build better days
 - **Jovamio** — Plan events with friends through invitations, RSVPs, shared items, tasks, and reminders
 - [**GeoHunter**](https://geohunter.arturf.ch) — Realtime geography game with ranked duels, team battles, and custom maps
 
