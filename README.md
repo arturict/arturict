@@ -1,11 +1,15 @@
 Software engineer in training and indie builder from Switzerland. I build products, developer tools, and open-source software.
 
-[Website](https://arturf.ch) · [LinkedIn](https://www.linkedin.com/in/artur-ferreira-5a5baa289/)
+Founder of [**Ferreira Digital**](https://ferreiradigital.ch): websites and business e-mail on their own domain for small businesses in Switzerland, from Reiden LU.
+
+[Website](https://arturf.ch) · [Ferreira Digital](https://ferreiradigital.ch) · [LinkedIn](https://www.linkedin.com/in/artur-ferreira7)
 
 ## Current projects
 
 ### Products
 
+- [**Ferreira Digital**](https://ferreiradigital.ch) — Websites and business e-mail for small Swiss businesses, fixed price, everything in the customer's name
+- [**Bytewahl**](https://bytewahl.ch) — Helps small Swiss businesses find a fitting IT partner in their region
 - [**Tevori**](https://tevori.app) — Shared household inventory connecting groceries, recipes, shopping, and cooking
 - **Savelo** — Websites, online reservations, and a manageable back office for independent restaurants
 - [**Daystrong**](https://daystrong.app) — Eat well, train strong, and build better days
